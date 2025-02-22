@@ -1,13 +1,18 @@
-# Detector de residuos con IA en discord
+# Analisis de datos implementado en discord
+este proyecto es un sistema de analisis de noticiás climaticas, las cuales seran extraidas
+mediante tecnicas de web scraping y procesadas para ser almacendas de tal que manera 
+que esten disponible constantemente. 
 
-un bot de discord que, al subir una foto de basura, clasifiquenlo automaticamente si es reciclable o no. 
 
-## Funcionalidades 
-- detecta vidrio, platico y papal.
-- una ves que identifique el elemento, se le brindara la infomacion sobre dicho elemento, información como el tiempo que tarda es descomponerse.
-  los problemas que puede causar, como reutilizarlo  en caso de ser reutilizables.
+# funcionalidades clave
+- /comando : este comnando
+- /noticias : este comando enviara noticas climaticas, extraidas preciamnte.
+- /graficas: este comando enviara graficas
 
-## tecnologías a utilizar.
-- YOLOv3
-- API Discord
-- Entornos vitruales 
+# teconlogias utilizadas
+- python
+- request
+- beatifoulSop
+- moplotip para visualizar datos
+- discord
+  
